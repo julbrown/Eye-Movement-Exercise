@@ -1,7 +1,7 @@
 # Eye-Movement-Exercise
 Description: This repository makes a webpage where eyes follow the movement of the user's mouse across the page. This is done using a combination of HTML, CSS, and JavaScript.
 
-How to Run: Go to this [link]() or download the files and open the index.html in your browser of choice. Make sure all files are in the same folder.
+How to Run: Go to this [link](https://julbrown.github.io/Eye-Movement-Exercise/) or download the files and open the index.html in your browser of choice. Make sure all files are in the same folder.
 
 Future improvements: I plan to make the eyes blink occasionaly, return to center if your mouse leaves the window, and have it show displeasure at being clicked.
 
